@@ -14,8 +14,7 @@ sudo pacman -S --needed --noconfirm \
   git curl wget \
   xfce4-goodies xfce4-whiskermenu-plugin \
   picom fish plank firefox \
-  neovim alacritty neofetch \
-  gtk-engine-murrine papirus-icon-theme
+  neovim alacritty papirus-icon-theme
 
 ### ---------------- YAY ----------------
 if ! command -v yay &>/dev/null; then
