@@ -13,7 +13,7 @@ sudo pacman -Syu --noconfirm
 sudo pacman -S --needed --noconfirm \
   git curl wget \
   xfce4-goodies xfce4-whiskermenu-plugin \
-  picom fish plank firefox \
+  picom fish firefox \
   neovim alacritty papirus-icon-theme
 
 ### ---------------- YAY ----------------
