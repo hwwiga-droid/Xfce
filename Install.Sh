@@ -28,7 +28,7 @@ fi
 yay -S --needed --noconfirm \
   eww \
   oh-my-posh-bin \
-  rose-pine-gtk-theme
+  
 
 ### ---------------- CLONE RICE ----------------
 rm -rf "$DIR"
